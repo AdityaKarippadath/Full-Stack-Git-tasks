@@ -1,1 +1,1 @@
-This is line ONE from branch-X
+This line was resolved by combining branch-X and branch-Y
